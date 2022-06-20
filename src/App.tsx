@@ -29,6 +29,7 @@ class App extends React.Component<Props,State> {
             }))
 
     }
+    //点击事件 弹出alert
 
 
 
